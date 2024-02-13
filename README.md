@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vishal Patil</h1>
-<h3 align="center">Data Science | Machine Learning | Data Analytics | Deep Learning | Dashbboard</h3>
+<h3 align="center">Data Science | Machine Learning | Data Analytics | Deep Learning | Dashboard</h3>
 
 
 ## 🌐 Socials:
