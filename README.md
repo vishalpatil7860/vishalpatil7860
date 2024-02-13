@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vishal Patil</h1>
+<h1 align="center">Hello, I'm Vishal Patil</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalpatil7860&label=Profile%20views&color=0e75b6&style=flat" alt="vishalpatil7860" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalpatil7860" alt="vishalpatil7860" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishalpatil7860](https://github.com/vishalpatil7860)
+- 👨‍💻 Portfolio Website: [https://portfolio-one-tau-88.vercel.app/](https://portfolio-one-tau-88.vercel.app/)
 
 - 📫 How to reach me **vishalpatil7860@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-one-tau-88.vercel.app/CV.pdf](https://portfolio-one-tau-88.vercel.app/CV.pdf)
+- 📄 Know about my experiences [CV](https://portfolio-one-tau-88.vercel.app/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
